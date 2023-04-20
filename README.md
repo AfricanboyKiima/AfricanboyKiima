@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AfricanboyKiima
 - 👀 I’m interested in programming(web,mobile),Linux,Cloud Computing,business,Machine learning
-- 🌱 I’m currently learning python,git and github....
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
