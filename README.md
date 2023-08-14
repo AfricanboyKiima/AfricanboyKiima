@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @AfricanboyKiima
-- I am a software developer based in Kinshasa-DRC
-
-I like :
-📚.(Reading)  
-💻.(Programming)
+- I am a software development student currently based in Kinshasa-DRC
 <h2>Programming languages</h2>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
