@@ -9,7 +9,6 @@
 
 <h2>Frameworks and Libraries</h2>
 <p> 
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
 <h2>Tools </h2>
